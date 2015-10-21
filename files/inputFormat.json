@@ -1,0 +1,7 @@
+{
+	"p_id":"String",
+	"num":"String",
+	"p_time":"String",
+	"longitude":"Integer",
+	"latitude":"Integer"
+}
